@@ -1,0 +1,212 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders FormTextArea with placeholder 1`] = `
+<View
+  style={
+    Object {
+      "width": "100%",
+    }
+  }
+>
+  <Text
+    style={
+      Array [
+        Object {
+          "color": "rgba(33, 33, 33, 0.87)",
+          "fontSize": 15,
+          "fontWeight": "normal",
+          "textAlign": "left",
+        },
+      ]
+    }
+  >
+    Address
+  </Text>
+  <View
+    style={
+      Object {
+        "marginBottom": 5,
+        "width": "100%",
+      }
+    }
+  >
+    <View
+      style={
+        Array [
+          Object {
+            "marginBottom": 5,
+            "marginTop": 10,
+            "width": "100%",
+          },
+          Object {
+            "borderColor": "rgba(33, 33, 33, 0.5)",
+            "borderWidth": 0.9,
+          },
+          Object {
+            "borderRadius": 15,
+            "paddingHorizontal": 10,
+          },
+        ]
+      }
+    >
+      <TextInput
+        allowFontScaling={true}
+        multiline={true}
+        onBlur={[Function]}
+        onChangeText={[Function]}
+        onContentSizeChange={[Function]}
+        onFocus={[Function]}
+        placeholder="placeholder"
+        rejectResponderTermination={true}
+        style={
+          Object {
+            "height": 100,
+            "textAlignVertical": "top",
+          }
+        }
+        underlineColorAndroid="transparent"
+      />
+    </View>
+  </View>
+</View>
+`;
+
+exports[`renders colored FormTextArea 1`] = `
+<View
+  style={
+    Object {
+      "width": "100%",
+    }
+  }
+>
+  <Text
+    style={
+      Array [
+        Object {
+          "color": "rgba(33, 33, 33, 0.87)",
+          "fontSize": 15,
+          "fontWeight": "normal",
+          "textAlign": "left",
+        },
+      ]
+    }
+  >
+    Address
+  </Text>
+  <View
+    style={
+      Object {
+        "marginBottom": 5,
+        "width": "100%",
+      }
+    }
+  >
+    <View
+      style={
+        Array [
+          Object {
+            "marginBottom": 5,
+            "marginTop": 10,
+            "width": "100%",
+          },
+          Object {
+            "borderColor": "rgba(33, 33, 33, 0.5)",
+            "borderWidth": 0.9,
+          },
+          Object {
+            "borderRadius": 15,
+            "paddingHorizontal": 10,
+          },
+        ]
+      }
+    >
+      <TextInput
+        allowFontScaling={true}
+        multiline={true}
+        onBlur={[Function]}
+        onChangeText={[Function]}
+        onContentSizeChange={[Function]}
+        onFocus={[Function]}
+        rejectResponderTermination={true}
+        style={
+          Object {
+            "height": 100,
+            "textAlignVertical": "top",
+          }
+        }
+        underlineColorAndroid="transparent"
+      />
+    </View>
+  </View>
+</View>
+`;
+
+exports[`renders regular FormTextArea 1`] = `
+<View
+  style={
+    Object {
+      "width": "100%",
+    }
+  }
+>
+  <Text
+    style={
+      Array [
+        Object {
+          "color": "rgba(33, 33, 33, 0.87)",
+          "fontSize": 15,
+          "fontWeight": "normal",
+          "textAlign": "left",
+        },
+      ]
+    }
+  >
+    Address
+  </Text>
+  <View
+    style={
+      Object {
+        "marginBottom": 5,
+        "width": "100%",
+      }
+    }
+  >
+    <View
+      style={
+        Array [
+          Object {
+            "marginBottom": 5,
+            "marginTop": 10,
+            "width": "100%",
+          },
+          Object {
+            "borderColor": "rgba(33, 33, 33, 0.5)",
+            "borderWidth": 0.9,
+          },
+          Object {
+            "borderRadius": 15,
+            "paddingHorizontal": 10,
+          },
+        ]
+      }
+    >
+      <TextInput
+        allowFontScaling={true}
+        multiline={true}
+        onBlur={[Function]}
+        onChangeText={[Function]}
+        onContentSizeChange={[Function]}
+        onFocus={[Function]}
+        rejectResponderTermination={true}
+        style={
+          Object {
+            "height": 100,
+            "textAlignVertical": "top",
+          }
+        }
+        underlineColorAndroid="transparent"
+      />
+    </View>
+  </View>
+</View>
+`;

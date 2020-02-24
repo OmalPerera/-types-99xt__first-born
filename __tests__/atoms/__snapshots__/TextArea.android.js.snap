@@ -1,0 +1,276 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders TextArea with placeholder 1`] = `
+<View
+  style={
+    Object {
+      "marginBottom": 5,
+      "width": "100%",
+    }
+  }
+>
+  <View
+    style={
+      Array [
+        Object {
+          "marginBottom": 5,
+          "marginTop": 10,
+          "width": "100%",
+        },
+        Object {
+          "borderColor": "rgba(33, 33, 33, 0.5)",
+          "borderWidth": 0.9,
+        },
+        Object {
+          "borderRadius": 10,
+          "paddingHorizontal": 5,
+        },
+      ]
+    }
+  >
+    <TextInput
+      allowFontScaling={true}
+      multiline={true}
+      onBlur={[Function]}
+      onChangeText={[Function]}
+      onContentSizeChange={[Function]}
+      onFocus={[Function]}
+      placeholder="placeholder"
+      rejectResponderTermination={true}
+      style={
+        Object {
+          "height": 100,
+          "textAlignVertical": "top",
+        }
+      }
+      underlineColorAndroid="transparent"
+    />
+  </View>
+</View>
+`;
+
+exports[`renders colored TextArea 1`] = `
+<View
+  style={
+    Object {
+      "marginBottom": 5,
+      "width": "100%",
+    }
+  }
+>
+  <View
+    style={
+      Array [
+        Object {
+          "marginBottom": 5,
+          "marginTop": 10,
+          "width": "100%",
+        },
+        Object {
+          "borderColor": "rgba(33, 33, 33, 0.5)",
+          "borderWidth": 0.9,
+        },
+        Object {
+          "borderRadius": 10,
+          "paddingHorizontal": 5,
+        },
+      ]
+    }
+  >
+    <TextInput
+      allowFontScaling={true}
+      multiline={true}
+      onBlur={[Function]}
+      onChangeText={[Function]}
+      onContentSizeChange={[Function]}
+      onFocus={[Function]}
+      rejectResponderTermination={true}
+      style={
+        Object {
+          "height": 100,
+          "textAlignVertical": "top",
+        }
+      }
+      underlineColorAndroid="transparent"
+    />
+  </View>
+</View>
+`;
+
+exports[`renders custom styled TextArea 1`] = `
+<View
+  style={
+    Object {
+      "marginBottom": 5,
+      "width": "100%",
+    }
+  }
+>
+  <View
+    style={
+      Array [
+        Object {
+          "marginBottom": 5,
+          "marginTop": 10,
+          "width": "100%",
+        },
+        Object {
+          "borderColor": "black",
+          "borderRadius": 3,
+          "borderWidth": 1,
+        },
+      ]
+    }
+  >
+    <TextInput
+      allowFontScaling={true}
+      multiline={true}
+      onBlur={[Function]}
+      onChangeText={[Function]}
+      onContentSizeChange={[Function]}
+      onFocus={[Function]}
+      rejectResponderTermination={true}
+      style={
+        Object {
+          "height": 100,
+          "textAlignVertical": "top",
+        }
+      }
+      underlineColorAndroid="transparent"
+    />
+  </View>
+</View>
+`;
+
+exports[`renders regular TextArea 1`] = `
+<View
+  style={
+    Object {
+      "marginBottom": 5,
+      "width": "100%",
+    }
+  }
+>
+  <View
+    style={
+      Array [
+        Object {
+          "marginBottom": 5,
+          "marginTop": 10,
+          "width": "100%",
+        },
+        Object {
+          "borderColor": "rgba(33, 33, 33, 0.5)",
+          "borderWidth": 0.9,
+        },
+        Object {
+          "borderRadius": 10,
+          "paddingHorizontal": 5,
+        },
+      ]
+    }
+  >
+    <TextInput
+      allowFontScaling={true}
+      multiline={true}
+      onBlur={[Function]}
+      onChangeText={[Function]}
+      onContentSizeChange={[Function]}
+      onFocus={[Function]}
+      rejectResponderTermination={true}
+      style={
+        Object {
+          "height": 100,
+          "textAlignVertical": "top",
+        }
+      }
+      underlineColorAndroid="transparent"
+    />
+  </View>
+</View>
+`;
+
+exports[`renders underlined TextArea 1`] = `
+<View
+  style={
+    Object {
+      "marginBottom": 5,
+      "width": "100%",
+    }
+  }
+>
+  <View
+    style={
+      Array [
+        Object {
+          "marginBottom": 5,
+          "marginTop": 10,
+          "width": "100%",
+        },
+        Object {
+          "borderBottomColor": "rgba(33, 33, 33, 0.5)",
+          "borderBottomWidth": 0.9,
+        },
+      ]
+    }
+  >
+    <TextInput
+      allowFontScaling={true}
+      multiline={true}
+      onBlur={[Function]}
+      onChangeText={[Function]}
+      onContentSizeChange={[Function]}
+      onFocus={[Function]}
+      rejectResponderTermination={true}
+      style={
+        Object {
+          "height": 100,
+          "textAlignVertical": "top",
+        }
+      }
+      underlineColorAndroid="transparent"
+    />
+  </View>
+</View>
+`;
+
+exports[`renders unstyled TextArea 1`] = `
+<View
+  style={
+    Object {
+      "marginBottom": 5,
+      "width": "100%",
+    }
+  }
+>
+  <View
+    style={
+      Array [
+        Object {
+          "marginBottom": 5,
+          "marginTop": 10,
+          "width": "100%",
+        },
+        undefined,
+      ]
+    }
+  >
+    <TextInput
+      allowFontScaling={true}
+      multiline={true}
+      onBlur={[Function]}
+      onChangeText={[Function]}
+      onContentSizeChange={[Function]}
+      onFocus={[Function]}
+      rejectResponderTermination={true}
+      style={
+        Object {
+          "height": 100,
+          "textAlignVertical": "top",
+        }
+      }
+      underlineColorAndroid="transparent"
+    />
+  </View>
+</View>
+`;

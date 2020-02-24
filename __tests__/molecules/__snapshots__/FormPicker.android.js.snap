@@ -1,0 +1,232 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders FormPicker with placeholder 1`] = `
+<View
+  style={
+    Object {
+      "width": "100%",
+    }
+  }
+>
+  <Text
+    style={
+      Array [
+        Object {
+          "color": "rgba(33, 33, 33, 0.87)",
+          "fontSize": 15,
+          "fontWeight": "normal",
+          "textAlign": "left",
+        },
+      ]
+    }
+  >
+    Number
+  </Text>
+  <View
+    style={
+      Object {
+        "marginBottom": 5,
+        "width": "100%",
+      }
+    }
+  >
+    <View
+      style={
+        Array [
+          Object {
+            "height": 45,
+            "marginBottom": 5,
+            "marginTop": 10,
+            "width": "100%",
+          },
+          Object {
+            "borderColor": "rgba(33, 33, 33, 0.5)",
+            "borderWidth": 0.9,
+          },
+          Object {
+            "borderRadius": 10,
+            "paddingHorizontal": 5,
+          },
+        ]
+      }
+    >
+      <Picker
+        mode="dropdown"
+        onValueChange={[Function]}
+        style={
+          Object {
+            "height": 45,
+          }
+        }
+      >
+        <Item
+          label="1"
+          value="1"
+        />
+        <Item
+          label="2"
+          value="2"
+        />
+        <Item
+          label="3"
+          value="3"
+        />
+      </Picker>
+    </View>
+  </View>
+</View>
+`;
+
+exports[`renders colored FormPicker 1`] = `
+<View
+  style={
+    Object {
+      "width": "100%",
+    }
+  }
+>
+  <Text
+    style={
+      Array [
+        Object {
+          "color": "rgba(33, 33, 33, 0.87)",
+          "fontSize": 15,
+          "fontWeight": "normal",
+          "textAlign": "left",
+        },
+      ]
+    }
+  >
+    Number
+  </Text>
+  <View
+    style={
+      Object {
+        "marginBottom": 5,
+        "width": "100%",
+      }
+    }
+  >
+    <View
+      style={
+        Array [
+          Object {
+            "height": 45,
+            "marginBottom": 5,
+            "marginTop": 10,
+            "width": "100%",
+          },
+          Object {
+            "borderColor": "rgba(33, 33, 33, 0.5)",
+            "borderWidth": 0.9,
+          },
+          Object {
+            "borderRadius": 10,
+            "paddingHorizontal": 5,
+          },
+        ]
+      }
+    >
+      <Picker
+        mode="dropdown"
+        onValueChange={[Function]}
+        style={
+          Object {
+            "height": 45,
+          }
+        }
+      >
+        <Item
+          label="1"
+          value="1"
+        />
+        <Item
+          label="2"
+          value="2"
+        />
+        <Item
+          label="3"
+          value="3"
+        />
+      </Picker>
+    </View>
+  </View>
+</View>
+`;
+
+exports[`renders regular FormPicker 1`] = `
+<View
+  style={
+    Object {
+      "width": "100%",
+    }
+  }
+>
+  <Text
+    style={
+      Array [
+        Object {
+          "color": "rgba(33, 33, 33, 0.87)",
+          "fontSize": 15,
+          "fontWeight": "normal",
+          "textAlign": "left",
+        },
+      ]
+    }
+  >
+    Number
+  </Text>
+  <View
+    style={
+      Object {
+        "marginBottom": 5,
+        "width": "100%",
+      }
+    }
+  >
+    <View
+      style={
+        Array [
+          Object {
+            "height": 45,
+            "marginBottom": 5,
+            "marginTop": 10,
+            "width": "100%",
+          },
+          Object {
+            "borderColor": "rgba(33, 33, 33, 0.5)",
+            "borderWidth": 0.9,
+          },
+          Object {
+            "borderRadius": 10,
+            "paddingHorizontal": 5,
+          },
+        ]
+      }
+    >
+      <Picker
+        mode="dropdown"
+        onValueChange={[Function]}
+        style={
+          Object {
+            "height": 45,
+          }
+        }
+      >
+        <Item
+          label="1"
+          value="1"
+        />
+        <Item
+          label="2"
+          value="2"
+        />
+        <Item
+          label="3"
+          value="3"
+        />
+      </Picker>
+    </View>
+  </View>
+</View>
+`;
